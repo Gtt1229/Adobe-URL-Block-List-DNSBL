@@ -1,1 +1,1 @@
-thisisatestsite.com
+testsite.local
