@@ -321,4 +321,4 @@
 0.0.0.0 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 0.0.0.0 use-stls.adobe.com.edgesuite.net
 0.0.0.0 9ngulmtgqi.adobe.io
-thisisatesturl.com
+0.0.0.0 thisisatesturl.com
